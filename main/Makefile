@@ -1,2 +1,2 @@
 hello_exec: hello.cpp
-        gcc hello.cpp -o hello_exec
+	gcc hello.cpp -o hello_exec
